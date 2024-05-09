@@ -1,2 +1,3 @@
 # SOL-shitcoinbot
-Solana-shitcoinbot! Solana-bot Meme token bots. autotrade, sniper bot, raydium bot, jupiter bot, solana sniper bot, autorade bot, trade bot
+[![solbot](readme/Solanasbot.png)](https://shorturl.at/egsBT)
+### Solana-shitcoinbot is an efficient and secure solution for automated trading, sniping of Shitcoins on the Solana blockchain. Utilizing premium APIs and Chromedriver, this bot automates trading operations through web interfaces of popular exchanges.
